@@ -1,0 +1,6 @@
+Name: John Doe, Email: john@example.com, Password: password123
+Name: Alice Smith, Email: alice@example.com, Password: securepwd456
+Name: Bob Johnson, Email: bob@example.com, Password: mysecretp@ssword
+Name: John Doe, Email: john@example.com, Password: password123
+Name: Alice Smith, Email: alice@example.com, Password: securepwd456
+Name: Bob Johnson, Email: bob@example.com, Password: mysecretp@ssword

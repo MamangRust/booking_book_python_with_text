@@ -1,0 +1,3 @@
+TglPinjam: 2023-11-01, UserID: 1, TglKembali: 2023-11-08, TglPengembalian: 2023-11-10, Status: Pinjam, TotalDenda: 0
+TglPinjam: 2023-11-03, UserID: 2, TglKembali: 2023-11-10, TglPengembalian: 2023-11-15, Status: Pinjam, TotalDenda: 0
+TglPinjam: 2023-11-05, UserID: 3, TglKembali: 2023-11-12, TglPengembalian: 2023-11-18, Status: Pinjam, TotalDenda: 0

@@ -1,0 +1,9 @@
+Title: The Great Gatsby, Author: F. Scott Fitzgerald, PublishYear: 1925, ISBN: 9780743273565
+Title: To Kill a Mockingbird, Author: Harper Lee, PublishYear: 1960, ISBN: 9780061120084
+Title: 1984, Author: George Orwell, PublishYear: 1949, ISBN: 9780451524935
+Title: The Great Gatsby, Author: F. Scott Fitzgerald, PublishYear: 1925, ISBN: 9780743273565
+Title: To Kill a Mockingbird, Author: Harper Lee, PublishYear: 1960, ISBN: 9780061120084
+Title: 1984, Author: George Orwell, PublishYear: 1949, ISBN: 9780451524935
+Title: The Great Gatsby, Author: F. Scott Fitzgerald, PublishYear: 1925, ISBN: 9780743273565
+Title: To Kill a Mockingbird, Author: Harper Lee, PublishYear: 1960, ISBN: 9780061120084
+Title: 1984, Author: George Orwell, PublishYear: 1949, ISBN: 9780451524935
